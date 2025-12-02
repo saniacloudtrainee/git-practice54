@@ -1,2 +1,2 @@
-"Hello Git!" 
+"Hello Git! (from feature branch)"
 "This is a new feature" 
