@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 "Hello Git! (from main)"
+=======
+"Hello Git! (from feature branch)"
+>>>>>>> feature-branch
 "This is a new feature" 
